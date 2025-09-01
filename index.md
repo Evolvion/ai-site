@@ -27,4 +27,3 @@ LinkedIn: https://www.linkedin.com/in/evolvion
 ---
 
 _Last updated: 2025-09-01_
-```
