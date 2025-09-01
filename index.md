@@ -6,7 +6,7 @@ description: Applied AI for geospatial operations — segmentation now, GeoRAG n
 
 # Jan Vorel — Geospatial AI
 
-Applied AI engineer from GIS. Geospatial ML + AI platform. ex-GE Smallworld. C/Java→Python. M.Sc. Bioinformatics.
+Applied AI engineer from GIS. Geospatial ML + AI platform. ex-GE Smallworld. C/Java→Python. M.Sc. Bioinformatics (Oxford)
 
 ## Project: geo-seg
 Tiny, CPU-friendly baseline for geospatial semantic segmentation (U-Net / DeepLabv3).
@@ -22,7 +22,7 @@ Tiny, CPU-friendly baseline for geospatial semantic segmentation (U-Net / DeepLa
 
 ## Contact
 Email: jan.vorel@evolvion.com  
-LinkedIn: https://www.linkedin.com/in/<your-handle>
+LinkedIn: https://www.linkedin.com/in/evolvion
 
 ---
 
