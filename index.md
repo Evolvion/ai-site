@@ -17,18 +17,14 @@ Tiny, CPU-friendly baseline for geospatial semantic segmentation (U-Net / DeepLa
 - Metrics: IoU on holdout will be published here
 
 ### Screenshots
-![geo-seg demo — input](assets/geo-seg-demo-1.png "geo-seg demo — input")
-![geo-seg demo — overlay](assets/geo-seg-demo-2.png "geo-seg demo — overlay")
-
-## About
-Focus: reproducible training, clear metrics (IoU), and production-style tooling (tests, Docker, CI). Next: GeoRAG assistant for geospatial SOPs and asset docs.
+<img src="/assets/geo-seg-demo-1.png" alt="geo-seg demo — input" width="1280">
+<img src="/assets/geo-seg-demo-2.png" alt="geo-seg demo — overlay" width="1280">
 
 ## Contact
 Email: jan.vorel@evolvion.com  
-LinkedIn: https://www.linkedin.com/in/evolvion
+LinkedIn: https://www.linkedin.com/in/<your-handle>
 
 ---
 
 _Last updated: 2025-09-01_
 ```
-
