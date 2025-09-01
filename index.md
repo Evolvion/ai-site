@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Jan Vorel — Geospatial AI
 description: Applied AI for geospatial operations — segmentation now, GeoRAG next.
@@ -6,8 +5,8 @@ description: Applied AI for geospatial operations — segmentation now, GeoRAG n
 
 # Jan Vorel — Geospatial AI
 
-Applied AI engineer from GIS. Geospatial ML + AI platform. 
-ex-GE Smallworld. C/Java→Python. M.Sc. Bioinformatics (Oxford)
+Applied AI engineer from GIS. Geospatial ML + AI platform.
+ex-GE Smallworld. C/Java→Python. M.Sc. Bioinformatics (University of Oxford)
 
 ## Project: geo-seg
 Tiny, CPU-friendly baseline for geospatial semantic segmentation (U-Net / DeepLabv3).
